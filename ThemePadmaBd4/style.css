@@ -1,0 +1,84 @@
+/*
+Theme Name: PadmaBD 
+Author: Sazed
+version: 1.0
+
+*/
+
+.slider{
+    position: absolute;
+}
+
+.logo{
+    position: relative;
+    z-index: 1;
+}
+
+.menu{
+    margin-top: 280px;
+}
+
+.menu ul{
+    margin-left: 150px;
+}
+
+.menu a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+
+.menu a:hover{
+    color: whitesmoke;
+    background: green;
+}
+
+.card_heading{
+    width: 80%;
+    padding-left: 150px;
+}
+
+.card img{
+    margin-top: -50px;
+}
+
+.green img{
+    width: 450px;
+    margin-left: 50px;
+}
+
+footer{
+    height: 400px;
+    background: rgb(78, 77, 77);
+}
+
+.footer_left{
+    margin-left: 180px;
+    color: whitesmoke;
+}
+
+.footer_right{
+    margin-left: 150px;
+    color: whitesmoke;
+}
+
+
+.footer_right a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.footer_right a:hover{
+    color: black;
+    font-size: 18px;
+}
+
+.author_main{
+    margin: auto;
+    width:65%;
+    background: rgb(110, 109, 109);
+    height: 50px;
+
+}
+
+
